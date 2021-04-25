@@ -1,0 +1,1 @@
+/usr/bin/c++  -m64 -O0 -g     -fPIC -Wno-attributes -Wnon-virtual-dtor -std=c++14 	-DDEBUG -UNDEBUG CMakeFiles/app.dir/errors.cpp.o CMakeFiles/app.dir/loader.cpp.o CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/ocalls.cpp.o CMakeFiles/app.dir/enclave_u.c.o -o app  -m64 -O0 -g -L/opt/intel/sgxsdk/lib64 -lsgx_urts_sim 

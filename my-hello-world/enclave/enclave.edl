@@ -1,0 +1,14 @@
+enclave {
+  trusted {
+    // @dev 'count' instead of 'size' should be used due to sizeof(int)!=1
+    public int ecall_double_num([in, count=1] int *num,[in, count=1] sgx_status_t* err);
+
+    public sgx_status_t ecall_hash_natime([in, string] const char *nte1,[in ,string] const char* nte2);
+
+  };
+
+  untrusted {
+    void ocall_show_who_wins([in, string] const char *who);
+    void ocall_show_double_num(int num);
+  };
+};

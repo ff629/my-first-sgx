@@ -1,0 +1,9 @@
+/root/fzy/my-hello-world/build/CMakeFiles/rebuild_cache.dir
+/root/fzy/my-hello-world/build/CMakeFiles/edit_cache.dir
+/root/fzy/my-hello-world/build/app/CMakeFiles/rebuild_cache.dir
+/root/fzy/my-hello-world/build/app/CMakeFiles/edit_cache.dir
+/root/fzy/my-hello-world/build/app/CMakeFiles/app.dir
+/root/fzy/my-hello-world/build/app/CMakeFiles/run.dir
+/root/fzy/my-hello-world/build/enclave/CMakeFiles/rebuild_cache.dir
+/root/fzy/my-hello-world/build/enclave/CMakeFiles/enclave.dir
+/root/fzy/my-hello-world/build/enclave/CMakeFiles/edit_cache.dir
